@@ -43,6 +43,7 @@ timezone:    America/New_York
 future:      true
 pygments:    false
 markdown:    kramdown
+theme:       Leap Day
 
 kramdown:
   auto_ids: true
