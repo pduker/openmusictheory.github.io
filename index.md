@@ -2,7 +2,7 @@
 layout: post
 title: Open Music Theory
 ---
-
+pdopenmt is my fork of the open music theory project. 
 **Open Music Theory** is an open-source, interactive, online "text"book for college-level music theory courses. OMT was built on resources authored by Kris Shaffer, Bryn Hughes, and Brian Moseley. It is edited by Kris Shaffer and Robin Wharton, and is published by [Hybrid Pedagogy Publishing](http://www.hybridpedagogy.org/#publishing). 
 
 Major funding and technological support (including the building of the technology behind the interactive music notation modules found in this text) came from the team at [Trinket](http://www.trinket.io).
