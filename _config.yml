@@ -1,23 +1,23 @@
-title:            Open Music Theory
-tagline:          Hybrid Pedagogy Publishing
+title:            Open Music Theory PD forked edition
+tagline:          
 description:      "an open, interactive, online textbook for college music theory"
 #Comment out url when working locally to resolve base urls correctly
-url: http://openmusictheory.com
-baseurl: http://openmusictheory.com
+#url: http://openmusictheory.com
+#baseurl: http://openmusictheory.com
 
 
 # Owner/author information
 owner:
-  name:           Hybrid Pedagogy Publishing
+  name:           Philip Duker
   avatar:         
   bio:            
-  email:          kris@hybridpedagogy.org
-  twitter:        HybridPub        
-  github:         hybrid-pedagogy       
+  email:          pduker@udel.edu
+  twitter:              
+  github:         pduker       
   instagram:           
   dribbble:       
   disqus:         
-  location:       "Boulder, CO"
+  location:       Newark, DE
   # Plug in your disqus shortname!
 
 tools:
@@ -31,7 +31,7 @@ links:
     url: /about.html
   - title: Contents
     url: /contents.html
-  - title: "#OpenMusicTheory"
+  - title: "#OpenMusicTheory PD edition"
     url: "https://twitter.com/search?f=realtime&q=%23OpenMusicTheory"
     external: true
   - title: Hybrid Pedagogy Publishing
